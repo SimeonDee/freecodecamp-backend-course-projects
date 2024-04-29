@@ -1,0 +1,12 @@
+{
+  "name": "freecodecamp-backend-course-projects",
+  "version": "1.0.0",
+  "description": "My FreeCodeCamp Backend Development and APIs Certification Course Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adedoyin Simeon Adeyemi",
+  "license": "MIT"
+}
