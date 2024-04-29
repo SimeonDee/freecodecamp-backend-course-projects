@@ -1,12 +1,15 @@
 {
-  "name": "freecodecamp-backend-course-projects",
-  "version": "1.0.0",
-  "description": "My FreeCodeCamp Backend Development and APIs Certification Course Projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+	"name": "freecodecamp-backend-course-projects",
+	"main": "server.js",
   "author": "Adedoyin Simeon Adeyemi",
-  "license": "MIT"
+	"scripts": {
+		"start": "node server.js"
+	},
+  "dependencies": {
+		"express": "^4.14.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SimeonDee/freecodecamp-backend-course-projects.git"
+	}
 }
